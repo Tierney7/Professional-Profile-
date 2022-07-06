@@ -13,13 +13,13 @@ Some impressive features of this project are browser/window resizing, anchor lin
   
   ## Usage 
   
-   ```md
+  
     ![topscreenshot](assets/images/Screenshot (34).png)
-    ```
+    
 
-      ```md
+      
     ![bottomscreenshot](assets/images/Screenshot (35).png)
-    ```
+  
 
 ## Credits
 
