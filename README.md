@@ -1,7 +1,6 @@
-# Professional-Profile-
+# Professional Profile/Portfolio for Matt Tierney 
 
-## Professional Profile/Portfolio for Matt Tierney 
-
+## Description 
 
 My motivation for this project was to put what i have learned thus far in HTML, and CSS to create website. The purpose of this website is to help potential employers get in touch with me and showcase my work, and projects while in the KU coding bootcamp. 
 
@@ -12,13 +11,9 @@ Some impressive features of this project are browser/window resizing, anchor lin
 
   
   ## Usage 
-  
-  
-    ![topscreenshot](assets/images/Screenshot (34).png)
-    
-
-      
-    ![bottomscreenshot](assets/images/Screenshot (35).png)
+   ![alt text](assets/images/Screenshot%20(34).png)
+         
+  ![alt text](assets/images/Screenshot%20(35).png)
   
 
 ## Credits
